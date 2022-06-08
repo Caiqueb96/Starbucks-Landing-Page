@@ -5,7 +5,7 @@ HTML
 CSS
 JAVASCRIPT
 
-Link do site: https://animated-starlight-4c832b.netlify.app/
+Link do site: https://landingpage-starbucks.netlify.app/
 
 Oque aprendi com esse pequeno projeto?
 Adicionar e ajustar imagens usando html e css, junto com javascript para criar duas funções que quando ativadas trocam a imagem
